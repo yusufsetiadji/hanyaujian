@@ -1,0 +1,16 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Infrastructure Model Base Architecture",
+    "owner": "Yusuf",
+    "description": "A high level architecture view for infrastructure model Cross Border Payment",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
